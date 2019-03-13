@@ -7,6 +7,8 @@ see [UnitySceneSwitch.cs](Assets/UnitySceneSwitch.cs) and [UnitySceneSwitchData.
 
 Tested on Unity 2018.3.8f1
 
+Open [main.scene](Assets/main.unity) to test in Editor
+
 ## Usage
 
 Construct `UnitySceneSwitchData` by:
