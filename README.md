@@ -3,6 +3,10 @@ UnitySceneSwitch encapsulate operations of loading or unloading scene asynchrono
 
 see [UnitySceneSwitch.cs](Assets/UnitySceneSwitch.cs) and [UnitySceneSwitchData.cs](Assets/UnitySceneSwitchData.cs)
 
+## Run
+
+Tested on Unity 2018.3.8f1
+
 ## Usage
 
 Construct `UnitySceneSwitchData` by:
